@@ -151,4 +151,4 @@ Kaiqi Wang
 
 kaiqiwang4493@gmail.com
 
-`[Privacy Policy URL]`
+https://kaiqiwang4493.github.io/MailMind-privacy/
